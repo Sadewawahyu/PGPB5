@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PGPBAcara5</string>
+    <array name="countries">
+        <item>Indonesia</item>
+        <item>Singapura</item>
+        <item>Rusia</item>
+        <item>Korea Selatan</item>
+        <item>Jepang</item>
+    </array>
+</resources>
